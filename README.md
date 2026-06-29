@@ -22,8 +22,6 @@ TGA Manager хранит профили рядом с приложением и 
 
 ## Скриншоты
 
-### English interface
-
 ![Overview — English](docs/screenshots/overview-en.png)
 
 ![Accounts — English](docs/screenshots/accounts-en.png)

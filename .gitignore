@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+.env
+.env.*
+!.env.example
+
+# Local Telegram accounts, credentials and generated sessions.
+data/*
+!data/.gitkeep
+Accounts/
+*.session
+*.session-journal
+*.tdata
+*.log
+
+# Telegram Desktop is downloaded locally and is not redistributed.
+Telegram/*
+!Telegram/.gitkeep
+
+# Local Codex/workspace metadata.
+.agents/
+.codex/
